@@ -1,4 +1,11 @@
-# Discord Find My Token [![Build Status](https://img.shields.io/badge/covarage-100%25-succes)]()
+<div align="center">
+  <br />
+  <p>
+    <a href="https://github.com/AstraaDev"><img src="https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png" width="1000"></a>
+  </p>
+</div>
+
+# Discord FindMyToken [![Build Status](https://img.shields.io/badge/covarage-100%25-succes)]() ![Profile views](https://gpvc.arturio.dev/AstraaDev)
 
 > This script allows its user to know his discord token without having to send it in a webhooks.
 
